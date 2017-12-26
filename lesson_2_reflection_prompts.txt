@@ -24,3 +24,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+自动合并可以减少枯燥工作量，手动合并可以保证准确性。
