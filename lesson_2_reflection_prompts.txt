@@ -8,13 +8,19 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+为每一个逻辑更改提交到暂存区。
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Fix bugs, experence feature. It can help me trace log easy.
 
 How do the diagrams help you visualize the branch structure?
+图像比文字更直观。
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+合并后以 master 分支为主了；因为合并是以一个为主，把其它分支合并到当前分支，当前分支成为新的主分支。
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
