@@ -6,3 +6,33 @@ When would you want to create a remote repository rather than keeping all your w
 Fork 是从远程仓库中建一个自己的版本，对版本的修改不会影响源版本。需要在某个版本上创建自己的版本，且自己的修改不影响源版本。
 克隆 是从远程仓库复制到本地。需要在本地编辑某一个版本的时候。
 分支 是同一个版本的某一阶段不同的版本。需要修复主版本的 Bug 、做一些新功能版本、创建特殊的版本。
+
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    Fill in your answer here
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    Fill in your answer here
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    Fill in your answer here
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Fill in your answer here
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Fill in your answer here
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    Fill in your answer here
